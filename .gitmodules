@@ -1,9 +1,12 @@
 [submodule "aem-airmiles-web"]
 	path = aem-airmiles-web
 	url = https://github.com/badhamchandrika/aem-airmiles-web.git
+	branch = main
 [submodule "aem-airmiles-ai"]
 	path = aem-airmiles-ai
 	url = https://github.com/badhamchandrika/aem-airmiles-ai.git
+	branch = main
 [submodule "aem-airmiles-travel2"]
 	path = aem-airmiles-travel2
 	url = https://github.com/badhamchandrika/aem-airmiles-travel2.git
+	branch = main
