@@ -1,0 +1,6 @@
+[submodule "aem-airmiles-web"]
+	path = aem-airmiles-web
+	url = https://github.com/badhamchandrika/aem-airmiles-web.git
+[submodule "aem-airmiles-ai"]
+	path = aem-airmiles-ai
+	url = https://github.com/badhamchandrika/aem-airmiles-ai.git
